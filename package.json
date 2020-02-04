@@ -1,6 +1,6 @@
 {
     "name": "savvas-frontend-project-lvl1",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Brain Games",
     "main": "src/index.js",
     "bin": {
@@ -22,5 +22,8 @@
     "keywords": [
         "brain-games"
     ],
-    "type": "module"
+    "type": "module",
+    "dependencies": {
+        "readline-sync": "^1.4.10"
+    }
 }
