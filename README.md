@@ -1,4 +1,4 @@
-#  Welcome to the Brain Games!
+# Welcome to the Brain Games!
 frontend-project-lvl1
 
 [![Brain-games CI](https://github.com/SavvaNK/frontend-project-lvl1/workflows/Brain-games%20CI/badge.svg)](https://github.com/SavvaNK/frontend-project-lvl1/actions)
